@@ -5,6 +5,6 @@ Steam Clone Version
 
 https://i.ibb.co/bmhZkND/image.png
 
-![Alt text](https://i.ibb.co/bmhZkND/image.png "Optional title")
+![Alt text](https://i.ibb.co/bmhZkND/image.png "Screenshot")
 
 
