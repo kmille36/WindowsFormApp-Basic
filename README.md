@@ -1,6 +1,6 @@
 # WindowsFormApp-BasicApp
 Steam Clone Version 
-- Make on VS2017
+- Make on Visual Studio 2017
 - Windows Form App (NET Framework) |Visual c#|
 
 Fake Steam - Winform App
