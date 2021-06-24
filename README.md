@@ -20,6 +20,11 @@ Fake Task Manager - Winform App
 ![Alt text](https://i.ibb.co/wB85m1f/image.png "Screenshot")
 
 
+Alternative Windows Run - Winform App
+
+![Alt text](https://i.ibb.co/QXxJqL5/image.png "Screenshot")
+
+
 
 
 
