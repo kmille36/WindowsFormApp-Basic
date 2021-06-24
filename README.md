@@ -1,5 +1,5 @@
 # WindowsFormApp-BasicApp
-Steam Clone Version 
+Some Clone Appication:  
 - Make on Visual Studio 2017
 - Windows Form App (NET Framework) |Visual c#|
 
