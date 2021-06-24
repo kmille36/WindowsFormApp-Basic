@@ -3,7 +3,7 @@ Steam Clone Version
 - Make on VS2017
 - Windows Form App (NET Framework) |Visual c#|
 
-Steam - Winform App
+Fake Steam - Winform App
 
 ![Alt text](https://i.ibb.co/bmhZkND/image.png "Screenshot")
 
