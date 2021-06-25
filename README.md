@@ -3,6 +3,8 @@ Some Clone Appication:
 - Make on Visual Studio 2017
 - Windows Form App (NET Framework) |Visual c#|
 
+*Note: Please turn off Windows Defender if it detected as virus
+
 Fake Steam - Winform App
 
 ![Alt text](https://i.ibb.co/bmhZkND/image.png "Screenshot")
