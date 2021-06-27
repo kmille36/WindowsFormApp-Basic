@@ -7,7 +7,7 @@ Some Clone Appication:
 
 
 
-Multi RDP Manager - Phần mềm lưu quản lý nhiều VPS
+ NEW: Multi RDP Manager v1.1 - Phần mềm lưu quản lý nhiều VPS
 
 
 ![Alt text](https://i.ibb.co/JczQhxR/image.png "Screenshot")
