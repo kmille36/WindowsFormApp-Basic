@@ -5,6 +5,14 @@ Some Clone Appication:
 
 *Note: Please turn off Windows Defender if Defender detect my exe file as virus
 
+
+
+Multi RDP Manager - Phần mềm lưu quản lý nhiều VPS
+
+
+![Alt text](https://i.ibb.co/JczQhxR/image.png "Screenshot")
+
+
 Fake Steam - Winform App
 
 ![Alt text](https://i.ibb.co/bmhZkND/image.png "Screenshot")
