@@ -11,6 +11,7 @@ Some Clone Appication:
  + Kết nối nâng cao: tuỳ chỉnh độ phân giải RDP khi kết nối
  + Nếu RDP không có mật khẩu: sử dụng kết nối nâng cao
  + Chức năng chính: Lưu thông tin RDP vào txt, tìm kiếm RDP trong danh sách, bỏ qua cảnh báo kết nối trực tiếp vào RDP( mặc định mỗi khi kết nối), kết nối với độ phân giải custom. Nếu tool báo lỗi khi đọc txt mở file txt và sửa lại cho đúng định dạng
+ + Tool cam kết hoàn toàn sạch không cài thêm keylog, virus ăn cắp dữ liệu. Thông tin RDP chỉ lưu trên máy trong file txt
 
 
 ![Alt text](https://i.ibb.co/JczQhxR/image.png "Screenshot")
