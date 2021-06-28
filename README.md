@@ -8,8 +8,8 @@ Some Clone Appication:
 
 
  **NEW: Multi RDP Manager v1.1 - Phần mềm lưu quản lý nhiều VPS**
- + Nếu VPS không có mật khẩu sử dụng kết nối nâng cao
  + Kết nối nâng cao: tuỳ chỉnh độ phân giải RDP khi kết nối
+ + Nếu RDP không có mật khẩu: sử dụng kết nối nâng cao
 
 
 ![Alt text](https://i.ibb.co/JczQhxR/image.png "Screenshot")
