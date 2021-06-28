@@ -14,8 +14,8 @@ Some Clone Appication:
  + Chức năng chính: Lưu thông tin RDP vào txt, tìm kiếm RDP trong danh sách, bỏ qua cảnh báo kết nối trực tiếp vào RDP( mặc định mỗi khi kết nối), kết nối với độ phân giải custom. Nếu tool báo lỗi khi đọc txt mở file txt và sửa lại cho đúng định dạng
  + Kết nối nâng cao: tuỳ chỉnh độ phân giải RDP khi kết nối (mặc định 640x480 vui lòng chọn độ phân giải mong muốn trước khi kết nối), độ phân giải sẽ lưu nên muốn về như cũ chọn đúng độ phân giải màn hình và kết nối lại
  + Nếu RDP không có mật khẩu: sử dụng kết nối nâng cao
+ + Tool không tự connect nếu RDP có thêm Port sau dấu ":" Vd 127.0.0.2:3390. 
  + Tool cam kết hoàn toàn sạch không cài thêm keylog, virus ăn cắp dữ liệu. Thông tin RDP chỉ lưu trên máy trong file txt
-+ Tool không tự connect nếu RDP có thêm Port sau dấu ":" Vd 127.0.0.2:3390. 
 
 ![Alt text](https://i.ibb.co/TYXRJXV/Capture.png "Screenshot")
 
