@@ -10,6 +10,7 @@ Some Clone Appication:
  **NEW: Multi RDP Manager v1.1 - Phần mềm lưu quản lý nhiều VPS**
  + Kết nối nâng cao: tuỳ chỉnh độ phân giải RDP khi kết nối
  + Nếu RDP không có mật khẩu: sử dụng kết nối nâng cao
+ + Chức năng chính: Lưu thông tin RDP vào txt, tìm kiếm RDP trong danh sách, bỏ qua cảnh báo kết nối trực tiếp vào RDP, kết nối với độ phân giải custom. Nếu tool báo lỗi khi đọc txt mở file txt và sửa lại
 
 
 ![Alt text](https://i.ibb.co/JczQhxR/image.png "Screenshot")
