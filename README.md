@@ -9,7 +9,9 @@ Some Clone Appication:
 
  **NEW: Multi RDP Manager v1.5 (PublicRelease) - Phần mềm lưu quản lý nhiều VPS**
  
- Link trực tiếp: https://raw.githubusercontent.com/kmille36/WindowsFormApp-Basic/main/MultiRDPManager.exe 
+ Link trực tiếp (Tiếng Việt): https://raw.githubusercontent.com/kmille36/WindowsFormApp-Basic/main/MultiRDPManager.exe 
+ 
+ Direct link (English): https://github.com/kmille36/WindowsFormApp-Basic/blob/main/Files/MultiRDPManagerEN.exe
 
  + Chức năng chính: Lưu thông tin RDP vào txt, tìm kiếm RDP trong danh sách, bỏ qua cảnh báo kết nối trực tiếp vào RDP( mặc định mỗi khi kết nối), kết nối với độ phân giải custom. Nếu tool báo lỗi khi đọc txt mở file txt và sửa lại cho đúng định dạng
  + Kết nối nâng cao: tuỳ chỉnh độ phân giải RDP khi kết nối (mặc định 640x480 vui lòng chọn độ phân giải mong muốn trước khi kết nối), độ phân giải sẽ lưu nên muốn về như cũ chọn đúng độ phân giải màn hình và kết nối lại
