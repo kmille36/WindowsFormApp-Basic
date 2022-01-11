@@ -21,7 +21,7 @@ Some Clone Appication:
 
 ![Alt text](https://i.ibb.co/TYXRJXV/Capture.png "Screenshot")
 
-**Ngrok Graphical for RDP Tunnel**
+**Ngrok Graphical for RDP Tunnel (ONLY PASTE NGROK TOKEN, USER AND PASSWORD FOR GET TOKEN OUTDATE)**
 
 ![Alt text](https://i.ibb.co/kcWgjD3/image.png "Screenshot")
 
