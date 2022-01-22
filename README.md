@@ -3,7 +3,7 @@ Some Clone Appication:
 - Make on Visual Studio 2017
 - Windows Form App (NET Framework) |Visual c#|
 
-*Note: Please turn off or add to whitelist Windows Defender if Defender detect my exe file as virus
+*Note: Please turn off or add to whitelist Windows Defender if Defender detect my exe file as virus*
 
 
 
